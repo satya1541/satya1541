@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*DhDTs5WmZdXHfjj6XcrzeA.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Satya Narayana Behera</h1>
 <h3 align="center">Accelerating Development with DevOps Automation</h3>
 <img align="right" alt="Coding" width="400" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif">
@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satya1541&show_icons=true&locale=en" alt="satya1541" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satya1541&" alt="satya1541" /></p>
+
