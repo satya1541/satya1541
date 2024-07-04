@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1679340545003/04ef510f-3ef1-40b7-b319-a233ee20d661.gif)](https://rishavchanda.io)
+[![MasterHead]([https://cdn.hashnode.com/res/hashnode/image/upload/v1679340545003/04ef510f-3ef1-40b7-b319-a233ee20d661.gif](https://miro.medium.com/v2/resize:fit:679/1*DhDTs5WmZdXHfjj6XcrzeA.gif))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Satya Narayana Behera</h1>
 <h3 align="center">Accelerating Development with DevOps Automation</h3>
 <img align="right" alt="Coding" width="400" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif">
